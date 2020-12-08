@@ -20,7 +20,7 @@
     $(window).load(function() {
         var $container = $('.portfolio-items');
         $container.isotope({
-            filter: '*',
+            filter: '.portraits',
             animationOptions: {
                 duration: 750,
                 easing: 'linear',
