@@ -28,3 +28,18 @@
 .nivo-lightbox-theme-default .nivo-lightbox-title-wrap {
   bottom: -5%;
 }
+
+ol.type li a {
+  font-family: "Montserrat", sans-serif;
+  color: #444;
+  font-size: 14px;
+  padding: 10px 20px;
+  border: 2px solid #444;
+  border-radius: 0;
+  text-transform: uppercase;
+  display: block;
+}
+
+ol.type li {
+  margin-bottom: 10px;
+}
