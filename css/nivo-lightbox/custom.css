@@ -1,0 +1,30 @@
+.nivo-lightbox-desc-wrap {
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  z-index: 99999;
+  text-align: center;
+}
+
+.nivo-lightbox-theme-default .nivo-lightbox-desc {
+  display: inline-block;
+  font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 7px 15px;
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+.nivo-lightbox-theme-default .nivo-lightbox-title {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 12px;
+}
+
+.nivo-lightbox-theme-default .nivo-lightbox-title-wrap {
+  bottom: -5%;
+}
